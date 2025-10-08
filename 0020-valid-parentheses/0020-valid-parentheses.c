@@ -10,6 +10,7 @@ bool isValid(char* s) {
             stack[++top] = c;
         }
         else{
+            if(top == -1) return false;
             char topmost = stack[top--];
             if(c == ']' && topmost != '[' ||
                 c == '}' && topmost != '{' ||
