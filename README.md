@@ -50,5 +50,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Sam-0960/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1446-consecutive-characters](https://github.com/Sam-0960/LeetCode/tree/master/1446-consecutive-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Sam-0960/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
