@@ -12,7 +12,6 @@ public:
                 r++;    
                 mp[s[r]]++;            
             }
-            cout<<r<<'&'<<l<<' ';
 
             res += n-r;
             mp[s[l]]--;
