@@ -1,18 +1,17 @@
 class Solution {
 public:
-    int atmost(vector<int> nums,int k ){
-        int count = 0;
-        int l = 0 , r = 0;
+    int atmost(vector<int>& nums, int k){
+        int count  = 0;
         unordered_map<int,int> mp;
+        int l = 0 , r = 0;
         while(l <= r && r<nums.size()){
             mp[nums[r]]++;
-
-            while(mp.size()>k){
+            while(mp.size() > k){
                 mp[nums[l]]--;
-                if(mp[nums[l]] == 0)mp.erase(nums[l]);
+                if(mp[nums[l]] == 0) mp.erase(nums[l]);
                 l++;
             }
-            count += r-l+1;
+            count += r - l +1;
             r++;
         }
         return count;
