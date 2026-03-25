@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sam-0960/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Sam-0960/LeetCode/tree/master/1446-consecutive-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Sam-0960/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sam-0960/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -104,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sam-0960/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
