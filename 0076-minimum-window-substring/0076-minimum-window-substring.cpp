@@ -13,13 +13,13 @@ public:
             mp[s[r]]--;
             if(mp[s[r]] == 0) count++;
             while( count == n){
-                mp[s[l]]++;
-                if(mp[s[l]] > 0){
-                    count--;
-                }
                 if(minlen > r-l+1){
                         minlen = r-l+1;
                         sindex = l;
+                }
+                mp[s[l]]++;
+                if(mp[s[l]] > 0){
+                    count--;
                 }
                 l++;
             }
