@@ -1,10 +1,10 @@
 class Solution {
 public:
     long long countVowels(string word) {
-        int l = 0,  r = 0;
+        int r = 0;
         long long ans = 0;
         int n = word.size();
-        while(r <= word.size()){
+        while(r < word.size()){
             if( word[r] == 'a' ||
                 word[r] == 'e' ||
                 word[r] == 'i' ||
