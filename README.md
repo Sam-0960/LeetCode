@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sam-0960/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Sam-0960/LeetCode/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/Sam-0960/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sam-0960/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Sam-0960/LeetCode/tree/master/0031-next-permutation) |
 ## Union-Find
 |  |
@@ -128,5 +130,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sam-0960/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
