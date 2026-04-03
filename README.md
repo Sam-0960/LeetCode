@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sam-0960/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sam-0960/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Sam-0960/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sam-0960/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Sam-0960/LeetCode/tree/master/0796-rotate-string) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sam-0960/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sam-0960/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Sam-0960/LeetCode/tree/master/0031-next-permutation) |
 ## Union-Find
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sam-0960/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sam-0960/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
