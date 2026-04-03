@@ -1,10 +1,10 @@
 class Solution {
 public:
     int atmost(vector<int>& nums, int k){
-        int l = 0, r = 0;
-        int res = 0;
+        int l = 0 , r = 0;
         unordered_map<int,int> mp;
-        while( l <= r && r<nums.size()){
+        int res = 0;
+        while(r<nums.size()){
             mp[nums[r]]++;
             while(mp.size() > k){
                 mp[nums[l]]--;
