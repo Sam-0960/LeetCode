@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/Sam-0960/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sam-0960/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sam-0960/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sam-0960/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sam-0960/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sam-0960/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sam-0960/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sam-0960/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Trie
 |  |
 | ------- |
