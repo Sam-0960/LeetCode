@@ -12,8 +12,6 @@ public:
             if(c > 0) c = 0;
             maxsum = max(maxsum, curr);
             if(curr < 0) curr = 0;
-            cout << minsum<<endl;
-            cout << maxsum <<endl;
         }
         return max(maxsum,abs(minsum));
     }
