@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Sam-0960/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Sam-0960/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sam-0960/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sam-0960/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Sam-0960/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
