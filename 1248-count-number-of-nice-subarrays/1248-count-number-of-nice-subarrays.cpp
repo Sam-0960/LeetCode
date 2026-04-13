@@ -1,19 +1,16 @@
 class Solution {
 public:
     int atmost(vector<int>& nums, int k){
-        int l=0,r=0;
-        int odd_count = 0;
+        int cnt = 0;
         int res = 0;
-        while(l<=r && r<nums.size()){
-            if(nums[r]%2 == 1){
-                odd_count++;
-            }
-
-            while(odd_count > k){
-                if(nums[l]%2 == 1) odd_count--; 
+        int l = 0 ,r =0;
+        while(r<nums.size()){
+            if(nums[r] % 2 == 1) cnt++;
+            while(cnt > k){
+                if(nums[l]%2 == 1) cnt--;
                 l++;
             }
-            res += (r-l+1);
+            res += r - l +1;
             r++;
         }
         return res;
