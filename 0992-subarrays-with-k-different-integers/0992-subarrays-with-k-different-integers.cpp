@@ -1,9 +1,9 @@
 class Solution {
 public:
     int atmost(vector<int>& nums, int k){
+        int res = 0;
         int l = 0 , r = 0;
         unordered_map<int,int> mp;
-        int res = 0;
         while(r<nums.size()){
             mp[nums[r]]++;
             while(mp.size() > k){
@@ -12,6 +12,7 @@ public:
                 l++;
             }
             res += r-l+1;
+            cout << res <<endl;
             r++;
         }
         return res;
