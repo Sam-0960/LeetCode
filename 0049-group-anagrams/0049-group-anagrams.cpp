@@ -9,12 +9,8 @@ public:
         }
         
         vector<vector<string>> ans;
-        for(auto x: mp){
-            vector<string> push;
-            for(auto y:x.second){
-                push.push_back(y);
-            }
-            ans.push_back(push);
+        for(auto& x: mp){
+            ans.push_back(x.second);
         }
         return ans;
     }
