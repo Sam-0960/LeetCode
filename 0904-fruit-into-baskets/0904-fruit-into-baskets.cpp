@@ -1,7 +1,6 @@
 class Solution {
 public:
-    int totalFruit(vector<int>& fruits) {
-        int count = 0; //the max val upto which the count can go is 2 as u can only hold 2 distinct 
+    int totalFruit(vector<int>& fruits) { 
         int l =0 , r = 0;
         unordered_map<int,int>mp;
         int maxlen = 0;
