@@ -18,10 +18,9 @@ public:
     }
 
     int characterReplacement(string s, int k) {
-        unordered_set<int>st (s.begin(),s.end());
         int maxlen = 0;
-        for(auto x: st){
-            maxlen = max(maxlen , atmost(s,k,x));
+        for(int i=0; i<26;i++){
+            maxlen = max(maxlen , atmost(s,k,(char)(i+65)));
         }
         return maxlen;
     }
