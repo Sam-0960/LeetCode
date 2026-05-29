@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/Sam-0960/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sam-0960/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-0960/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Sam-0960/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sam-0960/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-0960/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Sam-0960/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sam-0960/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Sam-0960/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sam-0960/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-0960/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Sam-0960/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
