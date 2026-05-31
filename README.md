@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sam-0960/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-0960/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Sam-0960/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sam-0960/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sam-0960/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-0960/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Sam-0960/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sam-0960/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
 | ------- |
