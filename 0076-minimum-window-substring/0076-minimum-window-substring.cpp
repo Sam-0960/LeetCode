@@ -3,27 +3,24 @@ public:
     string minWindow(string s, string t) {
         unordered_map<char,int> mp;
         for(auto x: t) mp[x]++;
-        int l = 0 , r = 0;
-        int minlen = INT_MAX;
+        int l = 0 ; int r = 0;
+        int len = INT_MAX;
+        int cnt = t.size();
         int start = -1;
-        // move right ptr until all the els in t fit inside my window in s
-        // move left ptr to only optimise the window len to minimum
-        int n = mp.size();
-        int cnt = 0;
-        while(r < s.size()){
+        while(r<s.size()){
             mp[s[r]]--;
-            if(mp[s[r]] == 0) cnt++;
-            while(cnt == n){
-                if( r-l+1 < minlen){
+            if(mp[s[r]] >= 0) cnt--;
+            while(cnt == 0){
+                if(r-l+1 < len){ 
                     start = l;
-                    minlen = r-l+1;
+                    len = r-l+1;
                 }
                 mp[s[l]]++;
-                if(mp[s[l]] > 0) cnt--;
+                if(mp[s[l]] > 0) cnt++;
                 l++;
             }
             r++;
         }
-        return (start == -1)? ""  : s.substr(start,minlen);
-    }
+        return (start == -1)? "": s.substr(start,len);
+    }   
 };
