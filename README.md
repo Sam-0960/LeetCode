@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sam-0960/LeetCode/tree/master/0050-powx-n) |
 | [0523-continuous-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -228,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sam-0960/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sam-0960/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
