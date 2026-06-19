@@ -271,9 +271,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sam-0960/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Sam-0960/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sam-0960/LeetCode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sam-0960/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
