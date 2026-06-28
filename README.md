@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Sam-0960/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sam-0960/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sam-0960/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sam-0960/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sam-0960/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-0960/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Merge Sort
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sam-0960/LeetCode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Sam-0960/LeetCode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Sam-0960/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sam-0960/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sam-0960/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sam-0960/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sam-0960/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-0960/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
@@ -335,4 +338,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sam-0960/LeetCode/tree/master/0085-maximal-rectangle) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sam-0960/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
