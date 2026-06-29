@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Sam-0960/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Sam-0960/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sam-0960/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Sam-0960/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sam-0960/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Sam-0960/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sam-0960/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sam-0960/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
 ## Data Stream
 |  |
 | ------- |
