@@ -1,5 +1,5 @@
 # LeetCode
-My Journery!
+My Journey!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
