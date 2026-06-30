@@ -1,28 +1,31 @@
 class Solution {
 public:
-    bool isPossible(vector<int>& weights,int days, int mid){
+    bool probable(vector<int>& weights, int days, int mid){
+        int cnt = 1;
         int load = 0;
-        int curr_days = 1;
-        for(auto x: weights){
-            if(load + x > mid){
-                curr_days++;
-                load = x;
-            }else{
-                load += x;
+        for(int i= 0; i<weights.size(); i++){
+            if( load + weights[i] <= mid){
+                load += weights[i];
+            }else{ 
+                load = weights[i];
+                cnt++;
             }
+            if(cnt > days) return false;    
         }
-        return (curr_days<= days)?true : false;
+        return (cnt <= days);
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int low = *max_element(weights.begin(), weights.end());
-        int high = accumulate(weights.begin(),weights.end(),0LL);
+        int right = accumulate(weights.begin(),weights.end(),0);
+        int left = *max_element(weights.begin(),weights.end());
         int ans = 0;
-        while(low <= high){
-            int mid = low + (high - low)/2;
-            if(isPossible(weights,days,mid)){
+        while(left <= right){
+            int mid = left + (right-left)/2;
+            if( probable(weights, days, mid)){
+                right = mid-1;
                 ans = mid;
-                high = mid - 1;
-            }else low = mid+ 1;
+            }else{
+                left = mid+1;
+            }
         }
         return ans;
     }
