@@ -1,26 +1,22 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    void func(int index, vector<int>& arr,int target,vector<int>& candidates){
+    void f(int ind,int target,vector<int>& v,vector<int>& candidates){
         if(target == 0){
-            ans.push_back(arr);
+            ans.push_back(v);
             return;
         }
-        else if(index == candidates.size()){
-            return;// we need to stop the recursion as the tree reaches its ends and condn not met
-        }else{
-            if(candidates[index]<= target){
-                arr.push_back(candidates[index]);
-                func(index, arr, target-candidates[index],candidates);
-                arr.pop_back();
-                func(index+1, arr,target,candidates);
-            }else return;
+        else if(candidates.size() == ind) return;
+        else if(candidates[ind] <= target){
+            v.push_back(candidates[ind]);
+            f(ind,target-candidates[ind],v,candidates);
+            v.pop_back();
         }
+        f(ind+1,target,v,candidates);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int> arr;
-        sort(candidates.begin(),candidates.end());
-        func(0,arr,target,candidates);
+        vector<int> v;
+        f(0,target,v,candidates);
         return ans;
     }
 };
