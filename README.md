@@ -192,6 +192,7 @@ My Journey!
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Sam-0960/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sam-0960/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -381,9 +382,11 @@ My Journey!
 | [0078-subsets](https://github.com/Sam-0960/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sam-0960/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Sam-0960/LeetCode/tree/master/0216-combination-sum-iii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sam-0960/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sam-0960/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sam-0960/LeetCode/tree/master/0090-subsets-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sam-0960/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
