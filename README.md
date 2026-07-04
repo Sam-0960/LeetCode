@@ -169,6 +169,7 @@ My Journey!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sam-0960/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sam-0960/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Sam-0960/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Sam-0960/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Sam-0960/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sam-0960/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Sam-0960/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -210,6 +211,7 @@ My Journey!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sam-0960/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Sam-0960/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sam-0960/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Sam-0960/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -367,6 +369,7 @@ My Journey!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sam-0960/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sam-0960/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sam-0960/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
