@@ -11,6 +11,7 @@ My Journey!
 | [0014-longest-common-prefix](https://github.com/Sam-0960/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Sam-0960/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sam-0960/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Sam-0960/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sam-0960/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sam-0960/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sam-0960/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -76,6 +77,7 @@ My Journey!
 | [0001-two-sum](https://github.com/Sam-0960/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sam-0960/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sam-0960/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Sam-0960/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Sam-0960/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sam-0960/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sam-0960/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -371,6 +373,7 @@ My Journey!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sam-0960/LeetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Sam-0960/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sam-0960/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sam-0960/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -384,6 +387,7 @@ My Journey!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sam-0960/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sam-0960/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Sam-0960/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sam-0960/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sam-0960/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sam-0960/LeetCode/tree/master/0046-permutations) |
