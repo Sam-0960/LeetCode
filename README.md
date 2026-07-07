@@ -16,6 +16,7 @@ My Journey!
 | [0040-combination-sum-ii](https://github.com/Sam-0960/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sam-0960/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sam-0960/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sam-0960/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sam-0960/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sam-0960/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0053-maximum-subarray) |
@@ -248,6 +249,7 @@ My Journey!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Sam-0960/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sam-0960/LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Sam-0960/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Sam-0960/LeetCode/tree/master/0242-valid-anagram) |
@@ -391,6 +393,7 @@ My Journey!
 | [0039-combination-sum](https://github.com/Sam-0960/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sam-0960/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sam-0960/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sam-0960/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sam-0960/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sam-0960/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Sam-0960/LeetCode/tree/master/0078-subsets) |
