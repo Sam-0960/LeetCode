@@ -1,32 +1,38 @@
 class Solution {
 public:
-    bool caniplace(vector<vector<char>>& board, int row, int col, int num){
-        for(int i = 0 ; i< board.size() ; i++)  if(board[row][i] == num) return false;
-        for(int i = 0; i<board.size(); i++) if(board[i][col] == num) return false;
-        int r = row;
-        int c = col;
-        if(row < 3) r = 0;
-        else if(row< 6) r =3;
-        else r = 6;
-        if(col < 3) c = 0;
-        else if(col < 6) c = 3;
-        else c = 6;
-        for(int i = r ;i<r+3; i++)
-            for(int j = c ; j <c+3; j++)
-                if(board[i][j] == num) return false;
+    bool canPlace(int row, int col, vector<vector<char>>& board,char num){
+        for(int i=0; i<board.size();i++){
+            if(board[row][i] == num) return false;
+        }
+        for(int j =0 ;j <board[0].size() ;j++){
+            if(board[j][col] == num)  return false;
+        }
+        int rows = row;
+        int cols = col;
+        if(rows < 3) rows = 0;
+        else if(row < 6) rows = 3;
+        else   rows = 6;
+        if(cols < 3) cols = 0;
+        else if(col < 6) cols = 3;
+        else cols = 6;
+
+        for(int i = rows; i<rows+3;i++)
+            for(int j = cols; j<cols+3 ; j++)
+                if(board[i][j] == num)
+                    return false;
+        
         return true;
     }
     bool solve(vector<vector<char>>& board){
-        for(int i = 0 ; i<board.size();i++){
-            for(int j= 0 ; j < board[0].size(); j++){
+        for(int i =0 ; i<board.size(); i++){
+            for(int j = 0 ; j<board[0].size(); j++){
                 if(board[i][j] == '.'){
-                    for(int num = '1'; num <= '9'; num++){
-                        if(caniplace(board,i,j,num)){
-                            board[i][j] = num;
+                    for(int k = '1'; k<= '9'; k++){
+                        if(canPlace(i,j,board,k)){
+                            board[i][j] = k;
                             if(solve(board)) return true;
                             else board[i][j] = '.';
                         }
-                            
                     }
                     return false;
                 }
@@ -35,6 +41,6 @@ public:
         return true;
     }
     void solveSudoku(vector<vector<char>>& board) {
-        if(solve(board)) return;
+        if(solve(board))    return;
     }
 };
