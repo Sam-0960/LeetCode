@@ -126,6 +126,7 @@ My Journey!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sam-0960/LeetCode/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/Sam-0960/LeetCode/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -187,6 +188,7 @@ My Journey!
 | [0131-palindrome-partitioning](https://github.com/Sam-0960/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sam-0960/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sam-0960/LeetCode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Sam-0960/LeetCode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Sam-0960/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sam-0960/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sam-0960/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -401,6 +403,7 @@ My Journey!
 | [0090-subsets-ii](https://github.com/Sam-0960/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sam-0960/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sam-0960/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Sam-0960/LeetCode/tree/master/0282-expression-add-operators) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sam-0960/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
