@@ -37,6 +37,7 @@ My Journey!
 | [0238-product-of-array-except-self](https://github.com/Sam-0960/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sam-0960/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Sam-0960/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sam-0960/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sam-0960/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -236,6 +237,7 @@ My Journey!
 | [0152-maximum-product-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Sam-0960/LeetCode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Sam-0960/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sam-0960/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -404,6 +406,7 @@ My Journey!
 | [0131-palindrome-partitioning](https://github.com/Sam-0960/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sam-0960/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Sam-0960/LeetCode/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/Sam-0960/LeetCode/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sam-0960/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
