@@ -7,26 +7,20 @@
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
+ * ;
  */
 class Solution {
 public:
-    int currentmax = 0;
-    int height(TreeNode* root){
-        if(!root) return 0;
-        return 1+max(height(root->left),height(root->right));
+    int ans(TreeNode* root, int* maxi){
+        if(root == nullptr) return 0;
+        int lh = ans(root->left,maxi);
+        int rh = ans(root->right,maxi);
+        *maxi = max(*maxi,lh+rh);
+        return 1+ max(lh,rh);
     }
-    void find(TreeNode* root){
-        if(root == nullptr) return;
-        int left = height(root->left); int right = height(root->right);
-        currentmax = max(currentmax, left+right);
-        find(root->left);
-        find(root->right);
-    }
-
     int diameterOfBinaryTree(TreeNode* root) {
-        find(root);
-        return currentmax;
-
+        int a = 0;
+        int c = ans(root,&a);
+        return a;
     }
 };
