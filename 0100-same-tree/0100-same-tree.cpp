@@ -11,21 +11,14 @@
  */
 class Solution {
 public:
-    void func(TreeNode* root, vector<int>& v){
-        if(root == nullptr) v.push_back(INT_MIN);
-        else{
-            v.push_back(root->val);
-            func(root->left,v);
-            func(root->right,v);
-        }
+    bool func(TreeNode* p, TreeNode* q){
+        if(p == nullptr && q == nullptr ) return true;
+        if((p==nullptr && q) ||  (q==nullptr && p)) return false;
+        if(p->val != q->val) return false;
+        
+        return func(p->left,q->left)&&func(p->right,q->right);;
     }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        vector<int> v,u;
-        func(p,v);
-        func(q,u);
-        for(int i = 0; i<v.size(); i++){
-            if(v[i]!= u[i]) return false;   
-        }
-        return true;
+        return func(p,q);
     }
 };
