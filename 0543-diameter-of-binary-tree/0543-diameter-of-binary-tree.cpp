@@ -7,20 +7,20 @@
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * ;
+ * };
  */
 class Solution {
 public:
-    int ans(TreeNode* root, int* maxi){
+    int func(TreeNode* root, int* maxi){
         if(root == nullptr) return 0;
-        int lh = ans(root->left,maxi);
-        int rh = ans(root->right,maxi);
+        int lh = func(root->left,maxi);
+        int rh = func(root->right,maxi);
         *maxi = max(*maxi,lh+rh);
-        return 1+ max(lh,rh);
+        return 1+max(lh,rh);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        int a = 0;
-        int c = ans(root,&a);
-        return a;
+        int maxi = 0;
+        int c = func( root, &maxi);
+        return maxi;
     }
 };
