@@ -423,6 +423,7 @@ My Journey!
 | ------- |
 | [0079-word-search](https://github.com/Sam-0960/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Sam-0960/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sam-0960/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -432,6 +433,7 @@ My Journey!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Sam-0960/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sam-0960/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -442,6 +444,7 @@ My Journey!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Sam-0960/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sam-0960/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -451,5 +454,6 @@ My Journey!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sam-0960/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
