@@ -18,8 +18,6 @@ public:
         return (func(p->left,q->right) && func(p->right,q->left));
     }
     bool isSymmetric(TreeNode* root) {
-        if(root == nullptr) return true;
-        if(!root->left && !root->right) return true;
         return func(root->left,root->right);
     }
 };
