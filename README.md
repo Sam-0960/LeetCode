@@ -104,6 +104,7 @@ My Journey!
 | [1695-maximum-erasure-value](https://github.com/Sam-0960/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sam-0960/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-0960/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Sam-0960/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
@@ -435,6 +436,7 @@ My Journey!
 | [0543-diameter-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sam-0960/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
 | ------- |
@@ -452,6 +454,7 @@ My Journey!
 | [0543-diameter-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sam-0960/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -469,6 +472,7 @@ My Journey!
 | [0543-diameter-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sam-0960/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -478,6 +482,7 @@ My Journey!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sam-0960/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
