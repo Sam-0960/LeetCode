@@ -1,25 +1,40 @@
 class Solution {
-public:
-    int largestRectangleArea(vector<int>& heights) {
+public: 
+    void prevsmall(vector<int>& heights, vector<int>& pse){
         stack<int> st;
-        int maxi = 0;
-        int n = heights.size();
-        for(int i = 0 ; i<n ;i++){
-            while(!st.empty() && heights[st.top()] > heights[i]){
-                int el = heights[st.top()];
-                st.pop();
-                int nse = i;
-                int pse = st.empty()? -1:st.top();
-                maxi  = max(maxi, (el*(nse-pse-1)));
-            }
+        for(int i=0; i<heights.size(); i++){
+            int el = heights[i];
+            while(!st.empty() && heights[st.top()] > el) st.pop();
+
+            if(st.empty()) pse.push_back(-1);
+            else pse.push_back(st.top()); 
             st.push(i);
         }
-        while(!st.empty()){
-            int el = heights[st.top()];st.pop();
-            int nse = n;
-            int pse = st.empty()? -1:st.top();
-            maxi = max(maxi, (el*(nse-pse-1)));
+        return;
+    }
+    void nextsmall(vector<int>& heights, vector<int>& nse){
+        stack<int> st;
+        int n = heights.size();
+        for(int i = heights.size()-1; i>=0 ;i--){
+            int el = heights[i];
+            while(!st.empty() && heights[st.top()] >= el) st.pop();
+            if(st.empty()) nse.push_back(n);
+            else nse.push_back(st.top());
+            st.push(i);
         }
-        return maxi;
+        return;
+    }
+    int largestRectangleArea(vector<int>& heights) {
+        vector<int> pse,nse;
+        prevsmall(heights,pse);
+        nextsmall(heights,nse);
+        long long val = 0;
+        long long maxi = 0;
+        int n = heights.size();
+        for(int i=0; i<heights.size(); i++){
+            val = 1LL*heights[i] * (nse[n-i-1] - pse[i] -1);
+            maxi = max(maxi,val);
+        }
+        return (int)maxi;
     }
 };
