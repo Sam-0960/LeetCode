@@ -11,27 +11,20 @@
  */
 class Solution {
 public:
-    TreeNode* predecessor(TreeNode* root){
-        if(root== nullptr) return nullptr;
-        while(root->right){
-            root= root->right;
-        }
-        return root;
-    }
-    void f(TreeNode* root){
-        if(root==nullptr) return;
-        if(root->left){
-            TreeNode* pred = predecessor(root->left);
-            pred->right = root->right;
-            root->right = root->left;
-            root->left = nullptr;
-        }
-        f(root->right);;
-        return;
-    }
     void flatten(TreeNode* root) {
-        if(root==nullptr) return;
-        f(root);
-        return;
+        TreeNode* curr = root;
+        while(curr){
+            if(curr->left){
+                TreeNode* prev = curr->left;
+                while(prev->right){
+                    prev = prev->right;
+                }
+                prev->right = curr->right;
+                curr->right = curr->left;
+                curr->left = nullptr;
+            }
+            curr = curr->right;
+        }
+        
     }
 };
