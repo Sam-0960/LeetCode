@@ -15,23 +15,22 @@ public:
         if(!root) return 0;
         queue<pair<TreeNode*,long long>> q;
         q.push({root,0});
-        long long maxi = 0;
+        long long maxwidth = 0;
         while(!q.empty()){
             int n = q.size();
-            long long mmin = q.front().second;
-            long long first,last;
-            for(int i=0 ; i<n ;i++){
+            long long first, last;
+            long long sub = q.front().second;
+            for(int i= 0 ; i< n ; i++){
                 TreeNode* node = q.front().first;
-                long long index = q.front().second - mmin;
+                long long qmin = q.front().second-sub;
                 q.pop();
-                if(i == 0) first = index;
-                if( i == n-1) last = index;
-                if(node->left) q.push({node->left,2*index+1});
-                if(node->right) q.push({node->right,2*index+2});
-
+                if(i == 0) first = 0;
+                if(i == n-1) last = qmin;
+                if(node->left) q.push({node->left,2*qmin+1});
+                if(node->right) q.push({node->right, 2*qmin+2});
             }
-            maxi = max(maxi,last-first+1);
+            maxwidth = max(maxwidth , last-first+1);
         }
-        return (int)maxi;
-    }
+        return (int)maxwidth;
+    }   
 };
