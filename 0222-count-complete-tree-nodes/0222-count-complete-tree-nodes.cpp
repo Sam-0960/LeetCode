@@ -13,22 +13,24 @@ class Solution {
 public:
     int countNodes(TreeNode* root) {
         if(!root) return 0;
-        int lh = left(root);
-        int rh = right(root);
-        if(lh == rh) return (1<<lh)-1;
-        return 1 + countNodes(root->left) + countNodes(root->right);
+        int left = leftheight(root);
+        int right = rightheight(root);
+        if(left == right) return (1<<left) - 1;
+        return countNodes(root->left) + countNodes(root->right) + 1;
     }
-    int left(TreeNode* root){
+    int leftheight(TreeNode*root){
         int h = 0;
         while(root){
-            h++;root= root->left;
+            h++;
+            root= root->left;
         }
         return h;
     }
-    int right(TreeNode* root){
+    int rightheight(TreeNode*root){
         int h = 0;
         while(root){
-            h++;root= root->right;
+            h++;
+            root= root->right;
         }
         return h;
     }
