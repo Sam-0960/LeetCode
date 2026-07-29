@@ -17,21 +17,18 @@ public:
             return newnode;
         }
         TreeNode* curr = root;
-        int l = 0 , r = 0;
         TreeNode* parent;
         while(curr){
             parent = curr;
-            l = r = 0;
+
             if(val < curr->val){
                 curr = curr->left;
-                l = 1;
             }else if(val > curr->val){
                 curr = curr->right;
-                r = 1;
             }
         }
         TreeNode* newnode = new TreeNode(val);
-        if(l ) parent->left = newnode;
+        if(val < parent->val) parent->left = newnode;
         else parent->right = newnode;
         return root;
     }
