@@ -9,33 +9,33 @@
  */
 class Solution {
 public:
-    void track(TreeNode* root,unordered_map<TreeNode*, TreeNode*>& parent) {
+    void track(TreeNode* root,unordered_map<TreeNode*,TreeNode*>&mp){
+        if (root == nullptr) return;
         queue<TreeNode*> q;
         q.push(root);
-        while (!q.empty()) {
-            int n = q.size();
-            for (int i = 0; i < n; i++) {
-                TreeNode* current = q.front();
-                q.pop();
-                if (current->left) {
-                    q.push(current->left);
-                    parent[current->left] = current;
-                }
-                if (current->right) {
-                    q.push(current->right);
-                    parent[current->right] = current;
-                }
+        mp[root]= nullptr;
+        while(!q.empty()){
+            TreeNode* node = q.front();
+            q.pop();
+            if(node->left){
+                mp[node->left] = node;
+                q.push(node->left);
+            }
+            if(node->right){
+                mp[node->right] = node;
+                q.push(node->right);
             }
         }
+        return;
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode*, TreeNode*> parent;
-        track(root,parent);
+        unordered_map<TreeNode*,TreeNode*>mp;
+        track(root, mp);
         queue<TreeNode*> q;
-        q.push(target);
         unordered_map<TreeNode*,bool> visited;
         int curr = 0;
         visited[target] = true;
+        q.push(target);
         while(!q.empty()){
             int n = q.size();
             if(curr++ == k) break;
@@ -50,9 +50,9 @@ public:
                     visited[node->right] = true;
                     q.push(node->right);
                 }
-                if(parent[node] && visited.find(parent[node]) == visited.end()){
-                    visited[parent[node]] = true;
-                    q.push(parent[node]);
+                if(mp[node] && visited.find(mp[node]) == visited.end()){
+                    visited[mp[node]] = true;
+                    q.push(mp[node]);
                 }
             }
         }
@@ -62,5 +62,6 @@ public:
             q.pop();
         }
         return res;
+        
     }
 };
