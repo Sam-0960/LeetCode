@@ -9,11 +9,11 @@ public:
         else{
             // two possibilities
             //pick the same index number and proceed with the same
-            if(candidates[index] <= target){
-                v.push_back(candidates[index]);
-                func(index,target - candidates[index],candidates,v,ans);
-                v.pop_back();
-            }
+
+            v.push_back(candidates[index]);
+            func(index,target - candidates[index],candidates,v,ans);
+            v.pop_back();
+        
             //proceed to next number in list
             func(index+1,target,candidates,v,ans);
         }
