@@ -33,6 +33,7 @@ My Journey!
 | [0152-maximum-product-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sam-0960/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sam-0960/LeetCode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Sam-0960/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Sam-0960/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
@@ -233,6 +234,7 @@ My Journey!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sam-0960/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Sam-0960/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sam-0960/LeetCode/tree/master/0547-number-of-provinces) |
 ## Dynamic Programming
 |  |
@@ -403,6 +405,7 @@ My Journey!
 | [0074-search-a-2d-matrix](https://github.com/Sam-0960/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sam-0960/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sam-0960/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Sam-0960/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
 ## Data Stream
 |  |
@@ -448,6 +451,7 @@ My Journey!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sam-0960/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Sam-0960/LeetCode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sam-0960/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -519,6 +523,7 @@ My Journey!
 | [0102-binary-tree-level-order-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sam-0960/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Sam-0960/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sam-0960/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
