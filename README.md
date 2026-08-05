@@ -73,6 +73,7 @@ My Journey!
 | [1695-maximum-erasure-value](https://github.com/Sam-0960/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sam-0960/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sam-0960/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-0960/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Sam-0960/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
@@ -143,6 +144,7 @@ My Journey!
 | [0523-continuous-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -471,6 +473,7 @@ My Journey!
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sam-0960/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
@@ -544,6 +547,7 @@ My Journey!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sam-0960/LeetCode/tree/master/0994-rotting-oranges) |
 | [1609-even-odd-tree](https://github.com/Sam-0960/LeetCode/tree/master/1609-even-odd-tree) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sam-0960/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
@@ -554,4 +558,9 @@ My Journey!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sam-0960/LeetCode/tree/master/0547-number-of-provinces) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
