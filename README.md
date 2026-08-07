@@ -47,6 +47,7 @@ My Journey!
 | [0503-next-greater-element-ii](https://github.com/Sam-0960/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sam-0960/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Sam-0960/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sam-0960/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
@@ -242,6 +243,7 @@ My Journey!
 | [0128-longest-consecutive-sequence](https://github.com/Sam-0960/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Sam-0960/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sam-0960/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -415,6 +417,7 @@ My Journey!
 | [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
 | [0419-battleships-in-a-board](https://github.com/Sam-0960/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Sam-0960/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Sam-0960/LeetCode/tree/master/0994-rotting-oranges) |
 ## Data Stream
@@ -471,6 +474,7 @@ My Journey!
 | [0543-diameter-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sam-0960/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -544,6 +548,7 @@ My Journey!
 | [0463-island-perimeter](https://github.com/Sam-0960/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Sam-0960/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
