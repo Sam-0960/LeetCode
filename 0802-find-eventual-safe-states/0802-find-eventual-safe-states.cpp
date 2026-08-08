@@ -13,21 +13,18 @@ public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
         vector<vector<int>> adj(n);
-        vector<int> outdegree(n,0);
         for(int i=0;i<n;i++){
             vector<int> v;
             for(int j =0; j<graph[i].size();j++){
                 v.push_back(graph[i][j]);
             }
             adj[i]= v;
-            outdegree[i]++;
         }
         vector<int> visited(n,0);
         vector<int> path(n,0);
         vector<int> nodes;
         vector<int> ans;
-        for(auto x: outdegree) if(x == 0) nodes.push_back(x);
-        for(int i=0; i<outdegree.size() && outdegree[i] != 0; i++){
+        for(int i=0; i<adj.size(); i++){
             if(dfs(i,adj,nodes,path,visited)) ans.push_back(i);
         }
         for(auto x: ans) nodes.push_back(x);
