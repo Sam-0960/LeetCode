@@ -347,6 +347,7 @@ My Journey!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sam-0960/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Sam-0960/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sam-0960/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Recursion
 |  |
@@ -489,6 +490,7 @@ My Journey!
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Sam-0960/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -570,6 +572,7 @@ My Journey!
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Sam-0960/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -591,6 +594,7 @@ My Journey!
 | [0207-course-schedule](https://github.com/Sam-0960/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sam-0960/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sam-0960/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Sam-0960/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
@@ -627,4 +631,12 @@ My Journey!
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Sam-0960/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
