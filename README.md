@@ -74,6 +74,7 @@ My Journey!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sam-0960/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sam-0960/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Sam-0960/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/Sam-0960/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sam-0960/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sam-0960/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -192,6 +193,7 @@ My Journey!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sam-0960/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sam-0960/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Sam-0960/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Sam-0960/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sam-0960/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## String
@@ -251,6 +253,7 @@ My Journey!
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Sam-0960/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -348,6 +351,7 @@ My Journey!
 | [0239-sliding-window-maximum](https://github.com/Sam-0960/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Sam-0960/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sam-0960/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Recursion
 |  |
@@ -432,6 +436,7 @@ My Journey!
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Sam-0960/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sam-0960/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Data Stream
 |  |
 | ------- |
@@ -497,6 +502,7 @@ My Journey!
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Sam-0960/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sam-0960/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
@@ -581,6 +587,7 @@ My Journey!
 | [0994-rotting-oranges](https://github.com/Sam-0960/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sam-0960/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1609-even-odd-tree](https://github.com/Sam-0960/LeetCode/tree/master/1609-even-odd-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sam-0960/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -639,4 +646,5 @@ My Journey!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
