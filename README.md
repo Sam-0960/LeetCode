@@ -271,6 +271,7 @@ My Journey!
 | [0494-target-sum](https://github.com/Sam-0960/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Sam-0960/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Sam-0960/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sam-0960/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sam-0960/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sam-0960/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -351,6 +352,7 @@ My Journey!
 | [0239-sliding-window-maximum](https://github.com/Sam-0960/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Sam-0960/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sam-0960/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sam-0960/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Recursion
@@ -497,6 +499,7 @@ My Journey!
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sam-0960/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sam-0960/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
@@ -580,6 +583,7 @@ My Journey!
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sam-0960/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sam-0960/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
@@ -603,6 +607,7 @@ My Journey!
 | [0547-number-of-provinces](https://github.com/Sam-0960/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sam-0960/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sam-0960/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -642,6 +647,7 @@ My Journey!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sam-0960/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
