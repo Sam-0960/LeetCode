@@ -1,24 +1,23 @@
 class Solution {
 public:
-    int atmost(vector<int>& nums, int k){
+    int countCompleteSubarrays(vector<int>& nums) {
         unordered_map<int,int> mp;
-        int l = 0 , r = 0;
+        for(auto x: nums) mp[x]++;
+        int k = mp.size();
+        int l =0 , r = 0;
         int res = 0;
-        while(l <=r && r<nums.size()){
-            mp[nums[r]]++;
-            while(mp.size() > k){
-                mp[nums[l]]--;
-                if(mp[nums[l]] == 0) mp.erase(nums[l]);
+        unordered_map<int,int> x;
+        int n = nums.size();
+        while(r<nums.size()){
+            x[nums[r]]++;
+            while(x.size() == k){
+                res += (n-r);
+                x[nums[l]]--;
+                if(x[nums[l]] == 0) x.erase(nums[l]);
                 l++;
             }
-            res += r-l+1;
             r++;
         }
         return res;
-    }
-    int countCompleteSubarrays(vector<int>& nums) {
-        unordered_set<int>st;
-        for(auto x: nums) st.insert(x);
-        return atmost(nums,st.size()) - atmost(nums,st.size()-1);
     }
 };
