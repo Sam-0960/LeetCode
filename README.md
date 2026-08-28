@@ -685,4 +685,8 @@ My Journey!
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sam-0960/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sam-0960/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
