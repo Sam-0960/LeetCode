@@ -689,4 +689,8 @@ My Journey!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sam-0960/LeetCode/tree/master/0022-generate-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sam-0960/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
