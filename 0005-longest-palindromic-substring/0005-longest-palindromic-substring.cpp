@@ -1,27 +1,26 @@
 class Solution {
 public:
-    pair<int,int> check(string s, int l, int  r){
-        while(l >= 0 && r < s.size() && s[l] == s[r]){
-            l--;
-            r++;
+    pair<int,int> checkpal(string s, int start, int end){
+        if(end >= s.size()) return {-1,0};
+        while(start >=0 && end < s.size() && s[start] == s[end]){
+            start--;end++;
         }
-        return {l+1,r-l-1};
+        int len = end-start-1;
+        return {start+1,len};
     }
-
     string longestPalindrome(string s) {
-        int maxlen = 0;
-        string res = "";
-        for(int i = 0 ; i <s.size() ; ++i){
-            pair<int,int> even = (i+1 < s.size()) ? check(s,i,i+1) : pair<int,int>{0,0} ;
-            pair<int,int> odd = check(s, i, i);
+        string res; int maxlen = 0;
+        for(int i =0; i<s.size(); i++){
+            pair<int,int> odd = checkpal(s,i,i);
+            pair<int,int> even = checkpal(s,i,i+1);
             if(odd.second > maxlen){
-                res = s.substr(odd.first,odd.second); 
                 maxlen = odd.second;
+                res = s.substr(odd.first,maxlen);
             }
             if(even.second > maxlen){
-                res = s.substr(even.first,even.second);
                 maxlen = even.second;
-            } 
+                res = s.substr(even.first,maxlen);
+            }
         }
         return res;
     }
