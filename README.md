@@ -147,6 +147,7 @@ My Journey!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sam-0960/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Sam-0960/LeetCode/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/Sam-0960/LeetCode/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sam-0960/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -264,6 +265,7 @@ My Journey!
 | [0022-generate-parentheses](https://github.com/Sam-0960/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sam-0960/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sam-0960/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Sam-0960/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sam-0960/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sam-0960/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -693,4 +695,8 @@ My Journey!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sam-0960/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sam-0960/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
