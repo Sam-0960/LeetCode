@@ -1,25 +1,25 @@
 class Solution {
 public:
-    vector<string> ans;
-    void f(int n , int open , int closed, string s){
+    void func(int open, int close, string& s, vector<string>& ans,int n){
         if(s.size() == 2*n){
             ans.push_back(s);
             return;
         }
-        if( open < n){
+        if(open < n){
             s.push_back('(');
-            f(n,open+1,closed,s);
-            s.pop_back();        
+            func(open+1,close,s,ans,n);
+            s.pop_back();
         }
-        if(open > closed){
+        if(open > close){
             s.push_back(')');
-            f(n,open,closed+1,s);
+            func(open,close+1,s,ans,n);
             s.pop_back();
         }
     }
-    vector<string> generateParenthesis(int n) {
-        string s;
-        f(n,0,0,s);
+    vector<string> generateParenthesis(int n) { 
+        vector<string> ans;
+        int open = 0; int close = 0;string s;
+        func(open,close,s,ans,n);
         return ans;
     }
 };
