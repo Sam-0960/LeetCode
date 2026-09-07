@@ -1,28 +1,29 @@
 class Solution {
 public:
-    bool dfs(int u,vector<vector<int>>& prerequisites,vector<vector<int>>& adj,vector<int>& vis,vector<int>&path){
-        vis[u] = 1;
-        path[u] = 1;
-        for(auto x:adj[u]){
-            if(!vis[x]){
-                if(!dfs(x,prerequisites,adj,vis,path)) return false;
-            } 
-            if(path[x]) return false;
-            
+    bool cycle(int node, vector<vector<int>>& graph, vector<int>& vis,vector<int>& path){
+        vis[node] = 1;
+        path[node] = 1;
+        for(auto child: graph[node]){
+            if(path[child]) return false;
+            if(vis[child]) continue;
+            if(!cycle(child,graph,vis,path)) return false;
         }
-        path[u] = 0;
+        path[node] = 0;
         return true;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        for(int i=0; i<prerequisites.size(); i++){
-            adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
+        int n = numCourses;
+        vector<vector<int>> adj(n);
+        for(int i=0; i<prerequisites.size() ; i++){
+            int u = prerequisites[i][1];
+            int v = prerequisites[i][0];
+            adj[u].push_back(v);        
         }
-        vector<int> visited(numCourses,0);
-        for(int i = 0; i<numCourses;i++){
-            if(!visited[i]){
-                vector<int>path(numCourses,0);
-                if(!dfs(i,prerequisites,adj,visited,path)) return false; 
+        vector<int> vis(n,0);
+        vector<int> path(n,0);
+        for(int i=0; i<n ; i++){
+            if(!vis[i]){
+                if(!cycle(i,adj,vis,path)) return false;;
             }
         }
         return true;
