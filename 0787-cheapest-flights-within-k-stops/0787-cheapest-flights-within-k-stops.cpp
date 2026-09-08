@@ -12,17 +12,19 @@ public:
         dist[src] = 0;
         priority_queue<tuple<int,int,int> , vector<tuple<int,int,int>>, greater<tuple<int,int,int>>> pq;
         pq.push({0,src,0});
+        int ans = INT_MAX;
         while(!pq.empty()){
-            auto [stops,dis, node] = pq.top();
+            auto [stops,node, d] = pq.top();
             pq.pop();
+            if(node == dst && stops <= k+1) ans= min(ans,d);
             if(stops >= k+1) continue;
             for(auto [child,w] : adj[node]){
-                if(dist[child] >  dis+ w && stops <= k){
-                    dist[child] =  dis + w;
-                    pq.push({ stops+1,dist[child], child});
+                if(dist[child] >  d+ w && stops <= k){
+                    dist[child] =  d + w;
+                    pq.push({ stops+1,child,dist[child]});
                 }
             }
         }
-        return (dist[dst] == INT_MAX)? -1: dist[dst];
+        return (ans == INT_MAX)? -1: ans;
     }
 };
