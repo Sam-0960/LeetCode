@@ -80,6 +80,7 @@ My Journey!
 | [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/Sam-0960/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sam-0960/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Sam-0960/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sam-0960/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-0960/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -287,6 +288,7 @@ My Journey!
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sam-0960/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sam-0960/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sam-0960/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Sam-0960/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sam-0960/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## Counting
@@ -630,6 +632,7 @@ My Journey!
 | [0802-find-eventual-safe-states](https://github.com/Sam-0960/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sam-0960/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Sam-0960/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sam-0960/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Geometry
@@ -679,6 +682,7 @@ My Journey!
 | [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sam-0960/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Sam-0960/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sam-0960/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bidirectional Search
 |  |
