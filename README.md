@@ -78,6 +78,7 @@ My Journey!
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sam-0960/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1514-path-with-maximum-probability](https://github.com/Sam-0960/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/Sam-0960/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sam-0960/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/Sam-0960/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sam-0960/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -265,6 +266,7 @@ My Journey!
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Sam-0960/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sam-0960/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -638,6 +640,7 @@ My Journey!
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sam-0960/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Sam-0960/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sam-0960/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Sam-0960/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sam-0960/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -717,4 +720,20 @@ My Journey!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sam-0960/LeetCode/tree/master/0070-climbing-stairs) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sam-0960/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sam-0960/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sam-0960/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sam-0960/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
