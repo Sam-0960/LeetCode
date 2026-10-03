@@ -267,6 +267,7 @@ My Journey!
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Sam-0960/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Sam-0960/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sam-0960/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -530,6 +531,7 @@ My Journey!
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Sam-0960/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Sam-0960/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sam-0960/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -620,6 +622,7 @@ My Journey!
 | [0994-rotting-oranges](https://github.com/Sam-0960/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sam-0960/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sam-0960/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Sam-0960/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1609-even-odd-tree](https://github.com/Sam-0960/LeetCode/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Sam-0960/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sam-0960/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -642,6 +645,7 @@ My Journey!
 | [0797-all-paths-from-source-to-target](https://github.com/Sam-0960/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Sam-0960/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Sam-0960/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sam-0960/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Sam-0960/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sam-0960/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
