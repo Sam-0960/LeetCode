@@ -1,37 +1,35 @@
 class Solution {
 public:
-    void bfs(int node,vector<vector<int>>& adj, vector<int>& vis){
-        vis[node] = 1;
-        queue<int> q;
-        q.push(node);
-        while(!q.empty()){
-            int x = q.front();q.pop();
-            for(auto child : adj[x]){
-                if(!vis[child]){
-                    vis[child] = 1;
-                    q.push(child);
-                }
-            }
+    int findPar(int node, vector<int>& parent){ 
+        if(node == parent[node]) return node;
+        return parent[node] = findPar(parent[node],parent);
+    }
+    bool unite(int x, int y ,vector<int>& parent, vector<int>& rank){
+        int a = findPar(x,parent) ; int b = findPar(y,parent);
+        if(a == b) return false;
+        if(rank[a] < rank[b]) parent[a] = b;
+        else if(rank[b] < rank[a]) parent[b] = a;
+        else{
+            parent[b] = a;
+            rank[a]++;
         }
+        return true;
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
-        vector<vector<int>> adj(n);
-        for(int i=0; i<n ;i++){
-            for(int j = 0 ; j <isConnected[i].size();j++){
-                if(isConnected[i][j] == 1 && i!= j){
-                    adj[i].push_back(j);
+        vector<int>parent(n);
+        iota(parent.begin(),parent.end(),0);
+        vector<int> rank(n,0);
+        int comps = n;
+        for(int i = 0; i < n; i++){
+            for(int j = i + 1; j < n; j++){
+                if(isConnected[i][j]){
+                    if(unite(i,j,parent,rank))
+                        comps--;
                 }
             }
         }
-        int ans = 0;
-        vector<int> vis(n,0);
-        for(int i=0; i<n; i++){
-            if(!vis[i]){
-                bfs(i,adj,vis);
-                ans++;
-            }
-        }
-        return ans;
+        
+        return comps;
     }
 };
