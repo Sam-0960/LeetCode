@@ -52,6 +52,7 @@ My Journey!
 | [0560-subarray-sum-equals-k](https://github.com/Sam-0960/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Sam-0960/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/Sam-0960/LeetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Sam-0960/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Sam-0960/LeetCode/tree/master/0735-asteroid-collision) |
@@ -118,6 +119,7 @@ My Journey!
 | [0525-contiguous-array](https://github.com/Sam-0960/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sam-0960/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sam-0960/LeetCode/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/Sam-0960/LeetCode/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Sam-0960/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sam-0960/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -231,6 +233,7 @@ My Journey!
 | [0451-sort-characters-by-frequency](https://github.com/Sam-0960/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Sam-0960/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sam-0960/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/Sam-0960/LeetCode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Sam-0960/LeetCode/tree/master/0796-rotate-string) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Sam-0960/LeetCode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sam-0960/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -264,6 +267,7 @@ My Journey!
 | [0547-number-of-provinces](https://github.com/Sam-0960/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sam-0960/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Sam-0960/LeetCode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Sam-0960/LeetCode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Sam-0960/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -312,6 +316,7 @@ My Journey!
 | [0148-sort-list](https://github.com/Sam-0960/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Sam-0960/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sam-0960/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/Sam-0960/LeetCode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sam-0960/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2126-destroying-asteroids](https://github.com/Sam-0960/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -521,6 +526,7 @@ My Journey!
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Sam-0960/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Sam-0960/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -610,6 +616,7 @@ My Journey!
 | [0662-maximum-width-of-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Sam-0960/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Sam-0960/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sam-0960/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sam-0960/LeetCode/tree/master/0785-is-graph-bipartite) |
