@@ -2,14 +2,13 @@ class Solution {
 public:
     int climbStairs(int n) {
         if(n == 1) return 1;
-        pair<int,int> p;
-        p.first = 1;
-        p.second = 2;
-        for(int i =3 ; i<= n ; i++){
-            int el = p.first + p.second;
-            p.first = p.second;
-            p.second = el;
+        if(n == 2) return 2;
+        pair<int,int> dp = {1,2};
+        for(int i=3; i<=n ;i++){
+            int val = dp.second;
+            dp.second = dp.first+dp.second;
+            dp.first = val;
         }
-        return p.second;
+        return dp.second;
     }
 };
