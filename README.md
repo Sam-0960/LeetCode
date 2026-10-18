@@ -161,6 +161,7 @@ My Journey!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sam-0960/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Sam-0960/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sam-0960/LeetCode/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/Sam-0960/LeetCode/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Sam-0960/LeetCode/tree/master/0509-fibonacci-number) |
@@ -288,6 +289,7 @@ My Journey!
 | [0022-generate-parentheses](https://github.com/Sam-0960/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sam-0960/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sam-0960/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sam-0960/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Sam-0960/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sam-0960/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -334,6 +336,7 @@ My Journey!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sam-0960/LeetCode/tree/master/0062-unique-paths) |
 | [2063-vowels-of-all-substrings](https://github.com/Sam-0960/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## String Matching
 |  |
