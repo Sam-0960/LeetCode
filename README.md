@@ -67,6 +67,7 @@ My Journey!
 | [0907-sum-of-subarray-minimums](https://github.com/Sam-0960/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sam-0960/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Sam-0960/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sam-0960/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sam-0960/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Sam-0960/LeetCode/tree/master/0994-rotting-oranges) |
@@ -310,6 +311,7 @@ My Journey!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sam-0960/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sam-0960/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/Sam-0960/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sam-0960/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sam-0960/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sam-0960/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -481,6 +483,7 @@ My Journey!
 | [0695-max-area-of-island](https://github.com/Sam-0960/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sam-0960/LeetCode/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Sam-0960/LeetCode/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/Sam-0960/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Sam-0960/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sam-0960/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sam-0960/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
