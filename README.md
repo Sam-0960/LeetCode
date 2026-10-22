@@ -37,6 +37,7 @@ My Journey!
 | [0152-maximum-product-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sam-0960/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sam-0960/LeetCode/tree/master/0162-find-peak-element) |
+| [0174-dungeon-game](https://github.com/Sam-0960/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Sam-0960/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sam-0960/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sam-0960/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -304,6 +305,7 @@ My Journey!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sam-0960/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Sam-0960/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Sam-0960/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Sam-0960/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Sam-0960/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sam-0960/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
@@ -482,6 +484,7 @@ My Journey!
 | [0079-word-search](https://github.com/Sam-0960/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sam-0960/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Sam-0960/LeetCode/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Sam-0960/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Sam-0960/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
 | [0419-battleships-in-a-board](https://github.com/Sam-0960/LeetCode/tree/master/0419-battleships-in-a-board) |
