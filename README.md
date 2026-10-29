@@ -49,6 +49,7 @@ My Journey!
 | [0238-product-of-array-except-self](https://github.com/Sam-0960/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sam-0960/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Sam-0960/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Sam-0960/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Sam-0960/LeetCode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Sam-0960/LeetCode/tree/master/0494-target-sum) |
@@ -315,6 +316,7 @@ My Journey!
 | [0213-house-robber-ii](https://github.com/Sam-0960/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Sam-0960/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sam-0960/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sam-0960/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Sam-0960/LeetCode/tree/master/0542-01-matrix) |
@@ -811,4 +813,12 @@ My Journey!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sam-0960/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sam-0960/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sam-0960/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
