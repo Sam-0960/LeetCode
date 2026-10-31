@@ -48,6 +48,7 @@ My Journey!
 | [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Sam-0960/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sam-0960/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Sam-0960/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sam-0960/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Sam-0960/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -317,6 +318,7 @@ My Journey!
 | [0198-house-robber](https://github.com/Sam-0960/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sam-0960/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Sam-0960/LeetCode/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/Sam-0960/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Sam-0960/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sam-0960/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sam-0960/LeetCode/tree/master/0494-target-sum) |
@@ -658,6 +660,7 @@ My Journey!
 | [0207-course-schedule](https://github.com/Sam-0960/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sam-0960/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sam-0960/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Sam-0960/LeetCode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/Sam-0960/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Sam-0960/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Sam-0960/LeetCode/tree/master/0542-01-matrix) |
@@ -820,6 +823,7 @@ My Journey!
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Sam-0960/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sam-0960/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Sam-0960/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -827,4 +831,8 @@ My Journey!
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sam-0960/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Sam-0960/LeetCode/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sam-0960/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
