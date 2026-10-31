@@ -2,17 +2,26 @@ class Solution {
 public:
     int countStaircase(vector<int>& nums) {
         int n = nums.size();
-        int ans = 0;vector<int> rank(1e5+1,0); vector<int> freq(1e5+1,0);
-        for(int i=0; i<n; i++){
-            int j = i;
-            int k =0;
-            for(; j<n; j++){
-                if(!rank[nums[j]]) rank[nums[j]] = ++k;
-                freq[nums[j]]++;
-                if(freq[nums[j]] > rank[nums[j]]) break;
-                else if(j-i+1 == k*(k+1)/2) ans++;
+        vector<int> freq(1e5+1,0); vector<int> rank(1e5+1,0);
+        int ans = 0;
+        for(int l = 0; l<n ; l++){
+            int maxi = 0;int k = 0;
+            for(int r= l; r<n; r++){
+                maxi = max(maxi,nums[r]);
+                if(!rank[nums[r]]) rank[nums[r]] = ++k;
+                freq[nums[r]]++;
+                if(freq[nums[r]] > rank[nums[r]]){
+                    break;
+                }else if(r-l+1 == k*(k+1)/2){
+                    ans++;
+                }
             }
-            for(int p = i; p<= min(j,n-1); p++) freq[nums[p]] = rank[nums[p]] = 0;
+            //clean up freq and rank
+            for(int i =0; i<=maxi; i++){
+                if(freq[i] != 0){
+                    freq[i] = rank[i] = 0;
+                }
+            }
         }
         return ans;
     }
