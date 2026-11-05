@@ -1,20 +1,19 @@
 class Solution {
 public:
-    vector<pair<int,int>> dir = {{-1,-1},{-1,0},{-1,1}};
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
-        for(int row = 1; row<n; row++){
-            for(int col = 0; col <n ; col++){
-                int mini =INT_MAX;
-                for(auto [dx,dy] : dir){
-                    if(row+dx >= n || row+dx <0 || col+dy >= n || col+dy < 0) continue;
-                    mini = min(mini,matrix[row+dx][col+dy]);
+        for(int i = 1; i< n ; i++){
+            for(int j= 0 ; j <n ; j++){
+                int el = matrix[i-1][j];
+                if(j-1 >=0){
+                    el = min(el,matrix[i-1][j-1]);
                 }
-                matrix[row][col] += mini;
+                if(j+1 < n){
+                    el = min(el,matrix[i-1][j+1]);
+                }
+                matrix[i][j] += el;
             }
         }
-        int ans = INT_MAX;
-        for(int i=0; i<n ; i++) ans = min(ans,matrix[n-1][i]);
-        return ans;
+        return *min_element(matrix[n-1].begin(),matrix[n-1].end());
     }
 };
