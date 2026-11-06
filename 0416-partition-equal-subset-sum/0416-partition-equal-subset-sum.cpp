@@ -1,20 +1,27 @@
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
-        int k = nums.size();
-        int target = (int)accumulate(nums.begin(),nums.end(),0LL) ;
-        if(target%2) return false;
-        target /= 2;
-        vector<vector<int>> dp(k+1,vector<int>(target+1,0));
-        int n = dp.size();
-        for(int i=1; i<n; i++){
-            for(int j=1; j<target+1 ; j++){
-                dp[i][j] = dp[i-1][j];
-                if(j-nums[i-1] >= 0 && (dp[i][j] < (nums[i-1]+dp[ i-1 ][ j-nums[i-1] ]) )  ){
-                    dp[i][j] = nums[i-1] + dp[i-1][j-nums[i-1]];
-                }
-            }
+    bool func(vector<int>& nums,vector<vector<int>>& dp, int index, int sum , int target){
+        if(index >= nums.size()) return false;
+        if(sum > target) return false;
+        if(sum == target){
+            return true;
         }
-        return dp[n-1][target] == target;
+        if(dp[index][sum] != -1) return dp[index][sum] >= 1;
+
+        bool pick = func(nums,dp,index+1,sum+nums[index],target);
+        if(pick){
+            dp[index][sum] = pick;
+            return dp[index][sum] >= 1;
+        }
+        bool dont = func(nums,dp,index+1,sum,target);
+        dp[index][sum] = dont;
+        return dp[index][sum] >= 1;
+    }
+    bool canPartition(vector<int>& nums) {
+        int total = accumulate(nums.begin(),nums.end(),0LL);
+        if(total%2) return false;
+        total = total/2;
+        vector<vector<int>> dp(nums.size()+1,vector<int>(total+1,-1));
+        return func(nums,dp,0,0,total);
     }
 };
