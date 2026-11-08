@@ -1,27 +1,20 @@
 class Solution {
 public:
-    bool func(vector<int>& nums,vector<vector<int>>& dp, int index, int sum , int target){
-        if(index >= nums.size()) return false;
-        if(sum > target) return false;
-        if(sum == target){
-            return true;
-        }
-        if(dp[index][sum] != -1) return dp[index][sum] >= 1;
-
-        bool pick = func(nums,dp,index+1,sum+nums[index],target);
-        if(pick){
-            dp[index][sum] = pick;
-            return dp[index][sum] >= 1;
-        }
-        bool dont = func(nums,dp,index+1,sum,target);
-        dp[index][sum] = dont;
-        return dp[index][sum] >= 1;
-    }
     bool canPartition(vector<int>& nums) {
         int total = accumulate(nums.begin(),nums.end(),0LL);
         if(total%2) return false;
+        int n = nums.size();
         total = total/2;
-        vector<vector<int>> dp(nums.size()+1,vector<int>(total+1,-1));
-        return func(nums,dp,0,0,total);
+        vector<vector<bool>> dp(n+1,vector<bool>(total+1,false));
+        for(int i = 1; i <= n ; i++){
+            for(int j = 0; j <= total; j++){
+                dp[i][j] = dp[i-1][j];
+                if( nums[i-1] == j) dp[i][j] = true;
+                else if(j> nums[i-1] ){
+                    if(dp[i-1][j-nums[i-1]]) dp[i][j] = true;
+                } 
+            }
+        }
+        return dp[n][total];
     }
 };
